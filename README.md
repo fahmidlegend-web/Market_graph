@@ -12,7 +12,8 @@ The price of each product remains consistent for a long time spanning upto decad
 ### The Graph:
 
 
-![Img](Graph_Img)
+![Img](Graph_Img.png)
+
 
 ### Market Analysis:
 
